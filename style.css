@@ -1,0 +1,21 @@
+img {
+    width: 750px;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+li {
+    background-color: bisque;
+    color:chocolate
+}
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: coral;
+    text-align: center;    
+}
